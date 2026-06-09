@@ -161,7 +161,7 @@ The platform transforms raw operational data into actionable intelligence for ma
 * Maintenance Priority Classification
 
 ---
-
+```
 # 🏗️ System Architecture
 
 Frontend (React + Tailwind CSS)
@@ -175,8 +175,9 @@ MongoDB Database
 Predictive Analytics Engine
 ↓
 Executive Intelligence Dashboard
-
+```
 ---
+
 
 # 🛠️ Technology Stack
 
@@ -281,23 +282,22 @@ PORT=5000
 
 ## System Overview Dashboard
 
-(Add Screenshot)
+<img width="1919" height="911" alt="Screenshot 2026-05-26 131905" src="https://github.com/user-attachments/assets/d6f5255b-ac5e-484f-97a3-93ed88e01933" />
+
 
 ## Wagon Records Management
 
-(Add Screenshot)
+<img width="1919" height="908" alt="Screenshot 2026-05-26 132023" src="https://github.com/user-attachments/assets/368dec59-5d34-48b0-93cb-ad7979f4b798" />
+
 
 ## Maintenance Analytics Dashboard
 
-(Add Screenshot)
-
-## Predictive Maintenance Intelligence
-
-(Add Screenshot)
+<img width="1919" height="911" alt="Screenshot 2026-05-26 132058" src="https://github.com/user-attachments/assets/c30458ae-f977-4827-ac0e-88c2c5b345bf" />
 
 ## Executive KPI Dashboard
 
-(Add Screenshot)
+<img width="1919" height="908" alt="Screenshot 2026-05-26 132317" src="https://github.com/user-attachments/assets/37f62837-4472-408b-82cf-72c8540a074c" />
+
 
 ---
 
